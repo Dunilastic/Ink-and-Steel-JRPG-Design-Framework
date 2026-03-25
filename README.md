@@ -13,5 +13,5 @@ This repository contains the full design framework for a turn-based JRPG, develo
 
 The complete documentation, including hand-drawn level layout and technical pseudocode, is available in the PDF file above.
 
-* ---
+---
 *Created by Daniel Ramírez as part of the DAM (Multi-platform App Development) curriculum.*
